@@ -1,2 +1,2 @@
-# click-cli-starter
-Boilerplant for Python Click Applications with Auto Commands and Github Like *\*Did your Mean*\* typo suggestions
+# PyCLIT
+Boilerplant for Python Click Applications with Auto Commands & <br>  Github Like *\*Did your Mean*\* typo suggestions
